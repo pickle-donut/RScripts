@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Education,CreditScore,Income,NetWorth,Sales
+1,"Adams, John",36,M,HS,350,38900,65924,1535
+2,"Ramesh, Jyoti",23,F,Bachelors,600,172000,178154,2196
+3,"Mendez, Nick",67,M,Bachelors,700,218000,265209,1287
+4,"Mendez, Joan",38,F,PhD,550,182000,85277,2143
+5,"Ritter, Jake",24,M,Masters,625,434000,193760,707
+6,"Rao, Eric",61,M,PhD,770,82000,314953,2170
+7,"Blake, Ann",26,F,HS,490,112000,192946,1229
+8,"Bishop, Marge",44,F,Masters,540,242000,339705,520
+9,"Ahmed, Mo",31,M,Masters,680,111000,185767,2326
+10,"Shultz, Dante",44,M,Bachelors,280,66000,97778,588
